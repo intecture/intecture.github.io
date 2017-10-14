@@ -1,0 +1,61 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color: #0E0E0E;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Fira Sans', sans-serif;
+  margin: 30px 0;
+  font-size: 3em;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+h2 {
+  font-family: 'Fira Sans', sans-serif;
+  margin: 40px 0 20px 0;
+  font-size: 1.8em;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+hr {
+  margin: 40px auto;
+  border-top-color: #333333;
+  border-bottom: 0;
+  width: 80%;
+}
+
+a:link {
+  color: #62C09B;
+}
+a:visited {
+  color: #62C09B;
+}
+a:hover {
+  color: #62C09B;
+  text-decoration: none;
+}
+a:active {
+  color: #62C09B;
+}
+
+.smallprint {
+  font-size: 0.8em;
+  color: #666666;
+}
+
+.container {
+  margin: 10px auto;
+  max-width: 600px;
+  text-align: center;
+}
+
+.logo {
+  width: 20em;
+  margin: 5em 0;
+}
+
+@import url(http://reset5.googlecode.com/hg/reset.min.css);

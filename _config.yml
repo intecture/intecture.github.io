@@ -1,0 +1,12 @@
+title: Intecture®
+email: info@intecture.io
+description: >-
+  Intecture is just an API for managing your servers. It's like DevOps, but for
+  people who want to enjoy life.
+copyright: Copyright © 2015-2017 Intecture Developers.
+baseurl: ""
+url: ""
+github_username:  intecture
+
+# Build settings
+markdown: kramdown
